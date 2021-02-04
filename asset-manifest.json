@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pkb-client/static/css/main.6a7db57e.chunk.css",
-    "main.js": "/pkb-client/static/js/main.9f4c55c7.chunk.js",
-    "main.js.map": "/pkb-client/static/js/main.9f4c55c7.chunk.js.map",
+    "main.js": "/pkb-client/static/js/main.eb545f89.chunk.js",
+    "main.js.map": "/pkb-client/static/js/main.eb545f89.chunk.js.map",
     "runtime-main.js": "/pkb-client/static/js/runtime-main.8700aa4e.js",
     "runtime-main.js.map": "/pkb-client/static/js/runtime-main.8700aa4e.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/pkb-client/static/css/2.20aa2d7b.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.0a067003.chunk.js",
     "static/css/main.6a7db57e.chunk.css",
-    "static/js/main.9f4c55c7.chunk.js"
+    "static/js/main.eb545f89.chunk.js"
   ]
 }
